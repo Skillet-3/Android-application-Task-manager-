@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TaskManager</string>
+    <string name="action_settings">Настройки</string>
+    <string name="name_task">Наименование:</string>
+    <string name="status">Статус:</string>
+    <string name="nameEditText">Наименование:</string>
+    <string name="workTimeEditText">Работа(часы):</string>
+    <string name="dateStartEditText">Дата начала:</string>
+    <string name="dateEndEditText">Дата окончания:</string>
+    <string name="cancelButton">Отмена</string>
+    <string name="saveButton">Сохранить</string>
+    <string name="NOT_STARTED">Не начата</string>
+    <string name="IN_PROCESS">В процессе</string>
+    <string name="COMPLETED">Завершена</string>
+    <string name="POSTPONED">Отложена</string>
+    <string name="create">Добавление</string>
+    <string name="edit">Редактирование</string>
+    <string name="URL">URL сервера</string>
+    <string name="isEmpty">Заполните поля</string>
+    <string name="isDateValidate">Дата недействительна</string>
+    <string name="select_date">Выбрать дату</string>
+    <string name="del">Удалить</string>
+
+</resources>

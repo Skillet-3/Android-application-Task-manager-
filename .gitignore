@@ -1,0 +1,11 @@
+.gradle
+.idea
+.DS_Store
+*.iml
+/gradle
+/local.properties
+/build
+/gen
+.iws/.ipr
+app/app.iml
+app/build
